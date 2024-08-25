@@ -60,10 +60,10 @@ descriptions:
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
  
-  - cat: Clean Energy
+  - cat: "Clean Energy"
     desc: "Everything about Clean Energy"
 
-  - cat: Personal Growth
+  - cat: "Personal Growth"
     desc: "How to constantly reinvent ourselves"
 
   - cat: Start-up
