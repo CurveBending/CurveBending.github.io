@@ -59,7 +59,16 @@ descriptions:
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
+ 
+  - cat: Clean Energy
+    desc: "Everything about Clean Energy"
 
+  - cat: Personal Growth
+    desc: "How to constantly reinvent ourselves"
+
+  - cat: Start-up
+    desc: "Life inside a start-up"
+    
 # Social icons and sharing options
 #
 # Social settings are used in two places:
