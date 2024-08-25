@@ -24,18 +24,20 @@ I'm a polymath who dances between logic and emotions. I started coding when I wa
 
 I've used three names in my career: Cissy, Xixi, and Cece. In a way, they represent different stages of my life: Cissy was a fresh grad and newcomer who simply wanted to fit in and find her place in an unfamiliar world; Xixi was a self-assured young woman who finally came to appreciate her Chinese upbringing and unique experience; Cece is an enterprising optimist who is willing to dream big, take risk and fight for what she believes in.
 
-I'm Cece. Welcome to CurveBending.
-
-## Core Values
-I value many virtues but keep only three as my core values. They form my inner compass and guide my decisions:
+I value many virtues but keep only three as my core beliefs. They form my inner compass and guide my decisions:
 - Clarity: have a purpose and know the ‘why’; live life intentionally
 - Growth: inputs over outputs; improving over proving
 - Connections: be kind; nurture deep connections; and be of service
-- 
-## Day-to-Day Focus
+ 
+I also keep my day-to-day priorities simple. These days, I focus mainly on three things:
 - Do great work
 - Support those I love
 - Stay sane
+
+I'm Cece. Welcome to CurveBending.
+
+
+  
 
 
 
