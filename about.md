@@ -6,21 +6,21 @@ main_nav: true
 ---
 
 ## About the Blog
-BendTheCurve is a blog where I:
-- Share insights into energy transition, climate finance, and innovation
-- Discuss ideas for growth and development
-- Support people in their professional and personal journeys
+CurveBending is a blog about:
+- Sharing insights into energy transition, climate finance, and innovation
+- Discussing ideas for growth and development
+- Supporting each other in our professional and personal journeys
 
-I call it BendTheCurve because impactful changes are rarely linear:
-- Climate change was non-linear and lost control only in the last century due to human activities; on the flip side, we also hold the key to bending down the curve.
-- Personal growth is also non-linear. We can grow exponentially as humans if we stay focused and persistent.
+It's called CurveBending because most changes take place in a non-linear way:
+- Global warming was non-linear and lost control only in the last century due to human activities; on the flip side, we human beings also hold the key to bending down the curve.
+- Personal growth is non-linear. We can grow exponentially if we stay focused, persistent, and resilient.
 
 ## About Me
-I grew up in a city called Hefei in China. Largely seen as a 2nd-tier city during my time, Hefei is now one of the fastest-growing cities in China and is at the very forefront of technology and innovation.
+I grew up in a city called Hefei in China. Lesser known during the time when I was there, Hefei is now one of the fastest-growing cities in China and is at the very forefront of technological innovation, including clean energy, which is near and dear to my heart.
 
-I moved to Hong Kong when I was 18 and spent most of my adult life abroad since then. Having lived in nearly ten different cities, I spent the longest time in New York, the city I've been calling home for almost a decade before recently moving to the Bay Area.
+I moved to Hong Kong when I was 18 and spent most of my adult life abroad since then. Having lived in nearly ten different cities, I developed the most kinship with New York, the city I'd been calling home for almost a decade before my recent move to the Bay Area.
 
-I consider myself a polymath. I started coding when I was ten years old and did Math & Computer Science Olympics in high school. Rather than pursuing a hard science degree, I studied Economics in Hong Kong, which led me to a decade-long exploration of a variety of social science subjects. I returned to my technical root for my Master's program, studying Operations Research at Columbia University. 
+I'm a polymath who dances between logic and emotions. I started coding when I was ten years old and did Math & Computer Science Olympics in high school. I switched to study Economics in Hong Kong, which led me to a decade-long exploration of a variety of social science subjects. I returned to my technical root for my Master's program, studying Operations Research at Columbia University. 
 
 I launched my career on Wall Street as a quantitative analyst before pivoting into macro investing. It's a niche but intellectually satisfying field, and I got to explore a broad range of interests: math, data science, programming, economics, politics, and, of course, capital markets. I only discovered my passion for climate until I was a mid-career professional. 
 
