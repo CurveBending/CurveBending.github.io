@@ -3,7 +3,7 @@ layout: post
 title:  "My Transition into Clean Energy"
 date:   2024-08-19T00:00:00-00:00
 author: Cece
-categories: "Clean Energy"
+categories: "Career"
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
