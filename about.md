@@ -27,14 +27,15 @@ I've used three names in my career: Cissy, Xixi, and Cece. In a way, they repres
 I value many virtues but keep only three as my core beliefs. They form my inner compass and guide my decisions:
 - Clarity: have a purpose and know the ‘why’; live life intentionally
 - Growth: inputs over outputs; improving over proving
-- Connections: be kind; nurture deep connections; and be of service
+- Connections: nurture deep connections; be kind, be of service, and be compassionate
  
 I also keep my day-to-day priorities simple. These days, I focus mainly on three things:
 - Do great work
 - Support those I love
 - Stay sane
 
-I'm Cece. Welcome to CurveBending.
+
+Welcome to CurveBending.
 
 
   
