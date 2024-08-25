@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Dummy Post"
-date:   2015-04-18T14:25:52-05:00
-author: Ben Centra
-categories: Dummy
+title:  "My Transition into Clean Energy"
+date:   2024-08-19T00:00:00-00:00
+author: Cece
+categories: Career Journey
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
