@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Start-up Spouse"
-date:   2024-08-19T00:00:00-00:00
+title:  "Start-up Life"
+date:   2024-08-11T00:00:00-00:00
 author: Cece
 categories: "Start-up"
 ---
