@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: CurveBending
-subtitle: "Rarely do changes happen in a linear way. Curve-bending shapes our experience as human beings."
-email: cecezhao9151@ gmail.com
+subtitle: "Rarely do changes happen linearly. Through curve-bending, we shape our experience as human beings."
+email: cecezhao9151 @ gmail.com
 name: Cece Zhao
 description: >
-  Growth and changes are rarely linear. Together, we can bend the curve.
+  Talk about clean energy, climate, innovation, and personal growth.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -71,15 +71,15 @@ descriptions:
 # social:
 #   - name: Twitter                         # Name of the service
 #     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
-#     username: "@TheBenCentra"             # (User) Name to display in the footer link
-#     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
+#     username: "@CeceZhao91"             # (User) Name to display in the footer link
+#     url: https://x.com/CeceZhao91        # URL of your profile (leave blank to not display in footer)
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: @CeceZhao91
+    url: https://x.com/CeceZhao91
     desc: Follow me on Twitter
     share: true
 
@@ -88,7 +88,7 @@ social:
     username: thebencentra
     url: ""
     desc: Friend me on Facebook
-    share: true
+    share: false
 
   - name: GitHub
     icon: github
@@ -99,8 +99,8 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Cece Zhao
+    url: https://www.linkedin.com/in/cece-zhao/
     desc: Connect with me on LinkedIn
     share: true
 
@@ -109,7 +109,7 @@ social:
     username: ""
     url: ""
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
@@ -130,7 +130,7 @@ social:
     username: ""
     url: ""
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
@@ -179,7 +179,7 @@ social:
     username: ""
     url: ""
     desc: Share to Reddit
-    share: true
+    share: false
 
   - name: "Hacker News"
     icon: hacker-news
