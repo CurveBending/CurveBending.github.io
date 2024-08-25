@@ -40,7 +40,7 @@ Within a year's span, I explored multiple domains: data science, product managem
 - I value clarity, growth, and connections. I thrive in meaningful work that aligns with these values.
 
 ## The lightbulb moment
-Things started to click in 2022.\
+Things started to click in 2022.
 It was late July in Seattle. I visited Mt Rainier for the first time. For whatever reason, that year, the snow had yet to thaw in July. We only realized it as we saw the mountain up close near the trailhead. It was too late to turn back, so we decided to hike nevertheless. So unexpectedly, a nice and easy summer hike was turned into a strenuous snow hike.
 
 But this turned out to be one of the most memorable experiences of the trip. As we hiked into the mountain, all trails disappeared under the snow. At certain points, there was no trace of human footprints, only white, boundless white, extending into the distant horizon and blending into the sky. Standing in the snow and admiring the mountain in awe, I heard a voice in my head murmuring, 'Maybe my kids will never get to see a snow-covered mountain like this in the future with global warming. We need to do something about this.' That thought has stayed since.
@@ -71,7 +71,7 @@ Gradually, different pieces started to connect. It became clearer to me where th
 
 Not everyone was supportive. Some said that my investment skills didn’t match, as project finance focuses more on cash flow modeling rather than backtesting and simulation. Some said that I didn’t have enough industry expertise in the energy sector. Some said the opportunity cost for me to pivot at this point in my career was too high. The 20-year-old me would have totally given in to those opinions (in fact, I probably did unconsciously). But this time, I kept going. All the inner work and external exploration prepared me well for the transition: I know who I am and what I want now, and I’m ready to take full agency of my path.
 
-## A new chapter in life
+## A new chapter
 I started preparing to leave my job at the start of 2024 to pursue this new direction full-time. Up until that point, all my exploration was done on the side during nights and weekends. While exhausting, it was totally the right decision: I would be under much more stress without my cushy pay cheque and would very likely settle for a sub-optimal path instead of taking the time to truly figure out my longing and career passion.
 
 I put in my resignation by the end of the first quarter. While I hadn't finalized my next job yet, I was ready. I knew the more time I spent on my old job, the more I was deplaying the change. It was time to take the leap of faith.
@@ -82,7 +82,9 @@ And I was right. Within two months, a few offers came, including an opportunity 
 It was almost four years ago when I took the red pill and started the journey. It was tough, especially at the beginning, when I had so little knowledge of both myself and how the world really works. Now at the end of the journey, I’m so glad that I persevered. Beyond achieving the goal of finding my career passion, I’m transformed as a human.
 
 
+
 So finally, what advice would I give to those who are not content, itching for a change but don’t know where to go next?
+
 - Stop running away from your reality. If you don’t feel content, then you probably aren’t.
 - Start exploring. Don’t limit yourself to only work on problems that you think you ‘can’ solve. Work on problems that you want to solve.
 - Be introspective as you explore. What makes your heart sing? What mission is worth fighting for?
