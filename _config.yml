@@ -60,18 +60,10 @@ jekyll-archives:
 # ga_tracking_id: "UA-XXXX-1"
 
 # Category descriptions (for archive pages)
-descriptions:
-  - cat: Book-Notes
-    desc: "Thoughts from reading"
+# descriptions:
+#  - cat: Book-Notes
+#    desc: "Thoughts from reading"
 
-  - cat: Career
-    desc: "Thoughts on career"
-
-  - cat: Start-up
-    desc: "Thoughts on start-up"
-
-  - cat: Learning-notes
-    desc: "What I'm learning"
  
     
 # Social icons and sharing options
