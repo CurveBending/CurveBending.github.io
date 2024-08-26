@@ -48,10 +48,10 @@ jekyll-archives:
 
 
 # Archive (https://aneejian.com/automated-jekyll-archives-github-pages/)
-collections:
-  archives:
-    output: true
-    permalink: '/archives/:path/'
+#collections:
+#  archives:
+#    output: true
+#    permalink: '/archives/:path/'
 
 # Disqus comments
 # disqus_shortname: CurveBending
