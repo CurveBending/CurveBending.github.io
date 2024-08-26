@@ -6,9 +6,6 @@ author: Cece
 categories: "Learning-Notes"
 ---
 
-
-# Methane Pyrolysis and Turquoise Hydrogen
-
 Methane pyrolysis is a process used to decompose methane (CH4) into its elemental components - hydrogen gas (H2) and solid carbon (C) - without producing carbon dioxide (CO2) as a byproduct. Hydrogen produced this way tends to be known as Turquoise Hydrogen.
 
 Below are a few differences between this technology and electrolysis, which are considered by many to be the holy grail of a ‘green’ hydrogen future.

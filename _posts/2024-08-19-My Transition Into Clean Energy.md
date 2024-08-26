@@ -6,7 +6,6 @@ author: Cece
 categories: "Career"
 ---
 
-# My Transition into Clean Energy
 When I started dabbling with a career transition to find 'fulfillment,' I had no idea what that meant.
 
 I had an awesome job as an investor, running a multi-billion portfolio and investing on behalf of institutional clients. It was well-paying, privileged, and intellectually stimulating. I was working with smart and competent people, doing interesting work, well respected by my team and coworkers, and on a promising trajectory to continue leveling up.

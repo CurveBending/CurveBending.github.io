@@ -5,8 +5,6 @@ date:   2024-08-05T00:00:00-00:00
 author: Cece
 categories: "Book-Notes"
 ---
-# Leading the Field
-
 Written in the 1950s, the book was one of the earliest self-help books, synthesizing the work of Earl Nightingale, a renowned thinker and speaker. It's said that he wrote the book to pass on his life's thinking in mindset and success to his kids. Generations after, his work is still awakening minds - talking about legacy!
 
 What do I love about this book?

@@ -5,8 +5,6 @@ date:   2024-08-11T00:00:00-00:00
 author: Cece
 categories: "Start-up"
 ---
-# Start-up Life
-
 My partner is building an AI Agent start-up. As we are deep in the tranches as a team, the start-up life has also become a part of my life.
 
 We're one year in, and the company is still in the very early stages. There are three volunteers/contractors helping out, but he's still the only one who is building the company full-time.
