@@ -1,47 +1,53 @@
 ---
 layout: page
-title: Collections
-permalink: /collections/
+title: Resource
+permalink: /Resource/
 main_nav: true
 ---
 
+[TOC]
+
+------
+
 # Podcasts
 
-### Clean Energy Finance
+#### Clean Energy Finance
 
 - Currents by Norton Rose Fullbright
 
-### Climate Innovations
+#### Climate Innovations
 
 - My Climate Journey
 - Catalyst w/Shayle Kane
 
-### Climate Policy
+#### Climate Policy
 
 - Volts
 - Columbia Energy Exchange
 
-### Personal Development
+#### Personal Development
 
 - The Tim Ferriss Show
 - Finding Mastery
 - Good Life Project
 - AT HOME with Byron Katie
 
-### Start-up
+#### Start-up
 
 - Founders
 - Y Combinator Startup Podcast
 
-### News
+#### News
 
 - The Daily
 
+  
 
+------
 
 # Books
 
-### Climate and Clean Energy
+#### Climate and Clean Energy
 
 - Superpower: One Man's Quest to Transform American Energy by Russell Gold
 - The Grid: They Fraying Wires Between Americans and Our Energy Future by Gretchen Bakke
@@ -50,7 +56,7 @@ main_nav: true
 - The New Map by Daniel Bergen
 - Climate and Energy Decoded by Tushar Choudhary
 
-### Personal Development
+#### Personal Development
 
 - Man's Search For Meaning by Victor Franks
 - Getting More by Stuart Diamond
@@ -62,7 +68,7 @@ main_nav: true
 - The Art of Gathering by Priya Parker
 - Atomic Habits by James Clear
 
-### Business and Start-up
+#### Business and Start-up
 
 - Zero to One by Peter Thiel
 - The Hard Things About Hard Things by Ben Horowitz
@@ -71,33 +77,40 @@ main_nav: true
 - Good to Great by James Collins
 - Essays from Paul Graham
 
-### General Knowlege
+#### General Knowlege
 
 - Sapiens: A Brief History of Humankind by Yuval Noah Harari
+
 - Chinese Rules by Tim Clissold
+
 - One Man's View of the World by Lee Kuan Yew
+
 - Six Easy Pieces by Richard Feynman
+
 - Efficiently Inefficient by Lasse Heje Pedersen
+
 - How the World Really Works by Vaclav Smil
 
+  
 
+------
 
 # Newsletter
 
-### Climate and Clean Energy
+#### Climate and Clean Energy
 
 - Bloomberg Green
 - Sightline Institute (Climate Tech VC)
 - Canary Media
 - Utility Dive
 
-### Personal Development
+#### Personal Development
 
 - Farnam Street
 - Five-Bullet Friday from Tim Ferriss
 - 3-2-1 Thursday by James Clear
 
-### Start-up
+#### Start-up
 
 - Hacker News
 
