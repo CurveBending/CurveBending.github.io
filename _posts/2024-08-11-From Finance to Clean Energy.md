@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "My Transition into Clean Energy"
-date:   2024-08-19T00:00:00-00:00
+title:  "From Finance to Clean Energy"
+date:   2024-08-11T00:00:00-00:00
 author: Cece
 categories: "Career"
 ---

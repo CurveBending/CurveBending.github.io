@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Start-up Life"
-date:   2024-08-11T00:00:00-00:00
+date:   2024-08-15T00:00:00-00:00
 author: Cece
 categories: "Start-up"
 ---

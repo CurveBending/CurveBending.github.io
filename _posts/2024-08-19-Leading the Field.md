@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Leading the Field"
-date:   2024-08-05T00:00:00-00:00
+date:   2024-08-19T00:00:00-00:00
 author: Cece
 categories: "Book-Notes"
 ---
