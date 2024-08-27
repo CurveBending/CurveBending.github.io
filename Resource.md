@@ -1,13 +1,9 @@
 ---
 layout: page
 title: Resource
-permalink: /Resource/
+permalink: /resource/
 main_nav: true
 ---
-
-[TOC]
-
-------
 
 # Podcasts
 
