@@ -4,6 +4,7 @@ title:  "Start-up Life"
 date:   2024-08-15T00:00:00-00:00
 author: Cece
 categories: "Start-up"
+tags: "AI"
 ---
 My partner is building an AI Agent start-up. As we are deep in the tranches as a team, the start-up life has also become a part of my life.
 

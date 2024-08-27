@@ -4,6 +4,7 @@ title:  "From Finance to Clean Energy"
 date:   2024-08-11T00:00:00-00:00
 author: Cece
 categories: "Career"
+tags: "Clean-Energy"
 ---
 
 When I started dabbling with a career transition to find 'fulfillment,' I had no idea what that meant.
