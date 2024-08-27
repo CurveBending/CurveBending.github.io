@@ -20,14 +20,14 @@ Below are a few differences between this technology and electrolysis, which are 
 
 **Companies to watch**
 
-- Monolith
+- [Monolith](https://monolith-corp.com/)
 
-- Transform Materials 
+- [Transform Materials](https://www.transformmaterials.com/)
 
-- Hazer Group
+- [Hazer Group](https://hazergroup.com.au/)
 
 
 
-**Source**
+**Reference**
 
-https://www.idtechex.com/en/research-article/methane-pyrolysis-unlocking-the-potential-of-turquoise-hydrogen/29395
+- [IDTechEx](https://www.idtechex.com/en/research-article/methane-pyrolysis-unlocking-the-potential-of-turquoise-hydrogen/29395)
