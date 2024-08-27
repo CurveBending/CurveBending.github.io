@@ -35,12 +35,3 @@ Day-to-day, I keep things simple to stay focused on what matters:
 
 
 **Welcome to CurveBending.**
-
-
-
-
-
-
-
-
-
