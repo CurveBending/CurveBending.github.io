@@ -26,9 +26,10 @@ main_nav: true
 - The Tim Ferriss Show
 - Finding Mastery
 - Good Life Project
+- The Knowledge Project
 - AT HOME with Byron Katie
 
-#### Start-up
+#### Startup
 
 - Founders
 - Y Combinator Startup Podcast
@@ -37,7 +38,11 @@ main_nav: true
 
 - The Daily
 
-  
+#### General
+
+- The Marginalia by Paria Popova
+
+
 
 ------
 
@@ -54,7 +59,7 @@ main_nav: true
 
 #### Personal Development
 
-- Man's Search For Meaning by Victor Franks
+- Man's Search For Meaning by Victor Frankl
 - Getting More by Stuart Diamond
 - The Lion Tracker's Guide to Life by Boyd Varty
 - Clear Thinking by Shane Parrish
@@ -64,14 +69,13 @@ main_nav: true
 - The Art of Gathering by Priya Parker
 - Atomic Habits by James Clear
 
-#### Business and Start-up
+#### Business and Startup
 
 - Zero to One by Peter Thiel
 - The Hard Things About Hard Things by Ben Horowitz
 - Build by Tony Fadell
 - The Effective Executive by Peter Druker
 - Good to Great by James Collins
-- Essays from Paul Graham
 
 #### General Knowlege
 
@@ -106,9 +110,21 @@ main_nav: true
 - Five-Bullet Friday from Tim Ferriss
 - 3-2-1 Thursday by James Clear
 
-#### Start-up
+#### Startup
 
 - Hacker News
+
+  
+
+------
+
+# Essays
+
+Paul Graham's Essays
+
+Howard Mark's Memos
+
+
 
 
 

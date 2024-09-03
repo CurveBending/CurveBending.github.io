@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Talk about investing"
+title:  "Investment Talk"
 date:   2024-08-31T00:00:00-00:00
 author: Cece
 categories: "Career"

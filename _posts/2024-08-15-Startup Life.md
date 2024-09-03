@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Start-up Life"
+title:  "Startup Life"
 date:   2024-08-15T00:00:00-00:00
 author: Cece
-categories: "Start-up"
+categories: "Startup"
 tags: "AI"
 ---
-My partner is building an AI Agent start-up. As we are deep in the tranches as a team, the start-up life has also become a part of my life.
+My partner is building an AI Agent startup. As we are deep in the tranches as a team, the startup life has also become a part of my life.
 
 We're one year in, and the company is still in the very early stages. There are three volunteers/contractors helping out, but he's still the only one who is building the company full-time.
 
@@ -18,7 +18,7 @@ So why are we doing this? We both see the future in AI agents and the imminent m
 
 Founding a company with little help is a lonely journey. But we learned the hard way that we have to keep the cofounding/hiring bar high, even if that means carrying the company ourselves until people can see what we see.
 
-Focusing on the actual building is also hard, surprisingly. The modern-day start-up wisdom is to focus on marketing and selling, get your name out there as quickly as possible, and raise and exit. Not many suggestions are geared toward building a long-standing company, even when they do on the surface.
+Focusing on the actual building is also hard, surprisingly. The modern-day startup wisdom is to focus on marketing and selling, get your name out there as quickly as possible, and raise and exit. Not many suggestions are geared toward building a long-standing company, even when they do on the surface.
 
 Going into this, we both knew what this meant regarding our lifestyle. We made this decision together. Sometimes I wonder why I brought this on to my life when the alternative would be much less intense, stressful, and uncomfortable (spoiler alert: there's no glory in being a founder or a founder's partner when trying to build a real company)
 And I have to remind myself of the answer I always know: to create something bigger than us and to live a life we won't regret.
