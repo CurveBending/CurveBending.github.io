@@ -7,7 +7,7 @@ categories: "Career"
 tags: "Investing"
 ---
 
-Coming to the Bay Area, one noticeable difference is how people inquire about 'investing.' Rather than asking, 'What type of investments do you do?', people say, 'Which stage of the company do you invest in?'. The underlying assumption is that an investor invests in startups. It's an understandable assumption in the context of Silicon Valley but most likely not true in other parts of the world.
+Coming to the Bay Area, one noticeable difference is how people inquire about 'investing.' Rather than asking, 'What type of investments do you do?', people say, 'Which stage of the company do you invest in?'. The underlying assumption is that an investor invests in startups. It's an understandable guess in the context of Silicon Valley but most likely not true in other parts of the world.
 
 However, stereotyping investing into a certain type is not unique to Silicon Valley. Depending on one's experience, most people see investing through their own lens without appreciating the broad spectrum of investing. 
 
