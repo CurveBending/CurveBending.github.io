@@ -20,3 +20,12 @@ What have I been thinking after re-reading the book:
 - Success is the gradual realization of a worthy goal. To find that worthy goal, stay true to ourselves. After we find it, stay focused: we can achieve anything, but not everything at once.
 - Great people don't have less problems. They are better problem solvers. They work through their problems rather than running away from them.
 - Great outcomes ultimately come from our services. Rather than focusing on outcomes, we ask ourselves every day, how can I improve my service and do things better?
+
+
+
+Reference:
+
+[Lead the Field](https://www.amazon.com/Lead-Field-Official-Nightingale-Publication/dp/1640950427)
+
+
+

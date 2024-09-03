@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Investment Talk"
+title:  "A Kaleidoscope of Investing"
 date:   2024-08-31T00:00:00-00:00
 author: Cece
 categories: "Career"
@@ -9,13 +9,15 @@ tags: "Investing"
 
 Coming to the Bay Area, one noticeable difference is how people inquire about 'investing.' Rather than asking, 'What type of investments do you do?', people say, 'Which stage of the company do you invest in?'. The underlying assumption is that an investor invests in startups. It's an understandable assumption in the context of Silicon Valley but most likely not true in other parts of the world.
 
-Almost every economic activity is fueled in some way through investing. Investing is a channel for money to flow from one side to the other. The receiving end can be a business, a project, or even an asset, which uses the capital received to generate more money. Investing is a fundamental piece of economic growth.
+However, stereotyping investing into a certain type is not unique to Silicon Valley. Depending on one's experience, most people see investing through their own lens without appreciating the broad spectrum of investing. 
 
-Investments can be categorized in different ways, depending on who's receiving and who's giving. Professional investor tends to specialize in different types of investing based on their risk appetites and analytical frameworks. But at its core, investing is almost always about comparing risk and rewards. 
+Almost every economic activity is fueled in some way through investing. Investing is a channel for money to flow from one side to the other. The receiving end can be a business, a project, or even an asset, which uses the capital received to generate more money. As a fundamental piece of economic growth, investing takes place in all walks of life.
+
+Investing can be categorized in different ways, depending on who's receiving and who's giving. Professional investors tend to specialize in different types of investing based on their risk appetites and analytical frameworks. But at its core, investing is almost always about comparing risks and rewards. 
 
 
 
-## - Capital Receivers
+## Capital Receivers
 
 Three types of entities usually exist on the receiving end:
 
@@ -48,7 +50,7 @@ Depending on the stage of the company, company investing can be further broken d
 
 - What: Invest in companies that are already IPOed. One can do so by buying individual stocks, bonds, or Funds/ETFs. Thanks to Robinhood, this type of investing is now accessible to almost anyone.
 - Style: Professional investors who trade public companies usually follow a much more rigorous process, enabled by the vast amount of data available through the stock exchange and all sorts of platforms. Different investors develop and adopt different analytical processes and can be differentiated further accordingly:
-  - Passive (Beta) vs Active (Alpha investor): Passive investors see little value beyond market returns (i.e., returns from the broad market average) and focus on diversification across different markets and managing macro risk rather than picking individual industries or companies.
+  - Passive (Beta) vs Active (Alpha) investors: Passive investors see little value beyond market returns (i.e., returns from the broad market average) and focus on diversification across different markets and managing macro risk rather than picking individual industries or companies.
   - Quantitative vs Fundamental investors:  Both are active investors. Fundamental investors focus on analyzing the business fundamentals and the cash flow implications to find mispricing and arbitrage opportunities. Quantitative investors rely mostly on processing historical data to discover patterns. They build trading signals through backtesting and simulation, even when economic rules fail to apply.
 - Investment edge: the analytical framework adopted by different investors plays a critical role in differentiating who can win in the long run; managing downturns and avoiding big losses is another crucial element in improving compound returns. For fundamental investors, industry expertise and connections can add big values; for quantitative investors, differentiating data can be a major lever, which is why many HFs are willing to pay millions for a unique data set.
 
@@ -75,7 +77,7 @@ The sexier asset investing includes arts and wine investing. Such investing is u
 
 
 
-## - Capital Givers
+## Capital Givers
 
 On the giving side, capital usually comes with different risk and reward appetites, guiding the investment strategy.
 
@@ -102,5 +104,5 @@ Some investors invest the money they own and focus on growing its value over tim
 
 
 
-Whether you are an investor or looking for capital, I hope you find this post useful in understanding the landscape and navigating various types of funding.
+Whether you are an investor or looking for capital, I hope you find this post useful in understanding the landscape and navigating various types of investing.
 

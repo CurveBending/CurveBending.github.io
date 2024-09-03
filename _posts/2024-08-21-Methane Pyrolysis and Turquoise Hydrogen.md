@@ -7,9 +7,11 @@ categories: "Learning-Notes"
 tags: "Clean-Energy"
 ---
 
-Methane pyrolysis is a process used to decompose methane (CH4) into its elemental components - hydrogen gas (H2) and solid carbon (C) - without producing carbon dioxide (CO2) as a byproduct. Hydrogen produced this way tends to be known as Turquoise Hydrogen.
+I like going to climate events. Whatever the topic is, I always find myself walking away with new insights and, at the very least, connecting with interesting people who are passionate about their work. For example, I got to spend an hour learning about methane pyrolysis yesterday! After some additional research, I decided to summarize what I had learned here.
 
-Below are a few differences between this technology and electrolysis, which are considered by many to be the holy grail of a ‘green’ hydrogen future.
+In a nutshell, methane pyrolysis is a process used to decompose methane (CH4) into its elemental components - hydrogen gas (H2) and solid carbon (C) - without producing carbon dioxide (CO2) as a byproduct. Hydrogen produced this way tends to be known as Turquoise Hydrogen.
+
+This, however, is not the clean hydrogen technology most hydrogen companies are betting on these days. The more popular technology under development uses a process called 'electrolysis,' which breaks down water (H2O) into hydrogen (H2) and oxygen (O2). This process produces 'green hydrogen' and is considered by many as the holy grail to unlock a hydrogen economy. Below are the key differences between these two technologies.
 
 |                      | Methane pyrolysis                                            | Electrolysis                                                 |
 | -------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
@@ -18,6 +20,8 @@ Below are a few differences between this technology and electrolysis, which are 
 | Source               | Uses methane (with potential to use biogas and become carbon neutral/negative) | Uses water                                                   |
 | By-product           | The solid carbon can be used in manufacturing (however, most Carbon is sequestered in practice due to the challenge to secure an offtake agreement) | Produces oxygen as a byproduct                               |
 | Technology readiness | Currently at pilot scale; Potentially lower cost than electrolysis | More mature technology; Costs decreasing with scale and improved technology |
+
+While electrolysis, being a more mature technology, has attracted the interest of many large renewable companies for initial deployment, there's no gaurantee it will be the future of hydrogen. Even with Clean Hydrogen Production Tax Credit, 'green hydrogen' is still too costly to scale. In the business hydrogen, it's important to always be on the lookout for emerging technologies and other types of players.
 
 **Companies to watch**
 
