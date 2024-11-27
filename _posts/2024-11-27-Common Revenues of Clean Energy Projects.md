@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Common revenues from clean energy projects"
+title:  "Common Revenues of Clean Energy Projects"
 date:   2024-11-27T00:00:00-00:00
 author: Cece
 categories: "Insight"
