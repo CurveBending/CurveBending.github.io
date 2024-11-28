@@ -3,7 +3,7 @@ layout: post
 title:  "From Finance to Clean Energy"
 date:   2024-08-11T00:00:00-00:00
 author: Cece
-categories: "Career"
+categories: "Reflections"
 tags: "Clean-Energy"
 ---
 

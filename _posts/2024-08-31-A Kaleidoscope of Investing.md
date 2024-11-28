@@ -3,7 +3,7 @@ layout: post
 title:  "A Kaleidoscope of Investing"
 date:   2024-08-31T00:00:00-00:00
 author: Cece
-categories: "Career"
+categories: "Insight"
 tags: "Investing"
 ---
 
