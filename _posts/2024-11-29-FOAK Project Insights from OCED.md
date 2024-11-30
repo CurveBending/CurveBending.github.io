@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Insights on FOAK Projects from OCED 2024 Nov Report"
-date:   2024-08-11T00:00:00-00:00
+title:  "FOAK Project Insights from OCED"
+date:   2024-11-29T00:00:00-00:00
 author: Cece
 categories: "Insight"
 tags: "Clean-Energy"
 ---
 
-This post summarizes the key takeaways from the latest [report](https://www.energy.gov/sites/default/files/2024-11/FOAK Financing and Development Approaches_112024_vf.pdf) published by the Office of Clean Energy Demonstration. Profiling 8 companies including LanzaTech, Solugen, Stegra and Via Solutions and a total of 21 FOAK projects, the report covers FOAK projects with different levels of technology and adoption readiness. It paints a holistic picture of the latest state of developing and financing FOAK projects, drawing lessons from the recent successes.
+This post summarizes the key takeaways from the latest [report](https://www.energy.gov/sites/default/files/2024-11/FOAK Financing and Development Approaches_112024_vf.pdf) published by the Office of Clean Energy Demonstration. Profiling 8 companies including LanzaTech, Solugen, Stegra and Via Solutions and a total of 21 FOAK projects, the report covers FOAK projects with different levels of technology and adoption readiness. By drawing lessons from the recent sucesses, it paints a realistic picture of what it takes to develop and finance FOAK projects.
 
 # **Overall Takeaways**
 
