@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Feeling Grateful"
-date:   2024-11-27T00:00:00-00:00
+date:   2024-11-28T00:00:00-00:00
 author: Cece
 categories: "Reflections"
 tags: "Personal-Development"
 ---
 
-Finally, it’s Thanksgiving weekend!
+Here comes the Thanksgiving Day!
 
 I’m not a shopping person, so Thanksgiving to me is about spending time with family and friends, relaxing around food, wine, and good spirits. Like all holidays, things slow down, which provides a perfect cue to pause, reflect, and in this case particularly, be grateful.
 

@@ -3,11 +3,9 @@ layout: post
 title:  "Unveiling the Complexity of Clean Energy Revenue"
 date:   2024-11-30T00:00:00-00:00
 author: Cece
-categories: "Insight"
+categories: "Insights"
 tags: "Clean-Energy"
 ---
-
-# **Unveiling the Complexity of Clean Energy Revenue**
 
 When most people think about how renewable energy projects make money, they imagine a simple transaction: generate clean power, sell it to the grid, and collect payment. But peek behind the curtain of a successful renewable energy project, and you'll discover an intricate dance of revenue streams that would make even seasoned investors raise their eyebrows.
 

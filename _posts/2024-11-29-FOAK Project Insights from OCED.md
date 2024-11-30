@@ -3,7 +3,7 @@ layout: post
 title:  "FOAK Project Insights from OCED"
 date:   2024-11-29T00:00:00-00:00
 author: Cece
-categories: "Insight"
+categories: "Insights"
 tags: "Clean-Energy"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Power System Innovations 101"
 date:   2024-11-26T00:00:00-00:00
 author: Cece
-categories: "Insight"
+categories: "Insights"
 tags: "Clean-Energy"
 ---
 
