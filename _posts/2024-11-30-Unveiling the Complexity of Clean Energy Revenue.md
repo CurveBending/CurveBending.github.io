@@ -7,42 +7,24 @@ categories: "Insights"
 tags: "Clean-Energy"
 ---
 
-When most people think about how renewable energy projects make money, they imagine a simple transaction: generate clean power, sell it to the grid, and collect payment. But peek behind the curtain of a successful renewable energy project, and you'll discover an intricate dance of revenue streams that would make even seasoned investors raise their eyebrows.
+Renewable energy projects generate revenues by selling energy - is it all that simple? In practice, various types of revenues exist.
 
-## **Beyond the Simple Sale: The Three Powers of Renewable Revenue**
+### **By risk: Contract/Merchant**
 
-Think of renewable energy revenue like a three-dimensional chess game, where success comes from mastering not just one board, but three interconnected levels of value creation. Let's explore each dimension:
+Most renewable projects have both contracted revenues and merchant revenues. Finding an offtaker and solidifying contracted revenues significantly derisk a project and are critical development milestones. In contrast, merchant revenues expose the project to the volatility of the future power markets. Depending on the project types and market characteristics, some developers are willing to take on more merchant risk when seeing an upside in power price or opportunities in energy arbitrage.
 
-### **Power You Make: The Energy Generation Story**
+For a solar/wind project, contracted revenues are usually locked in through a PPA (Power Purchase Agreement), where the developer signs a contract with a utility company or a C&I customer, promising the delivery of a certain amount of energy at a certain price, usually over 10-15 years. For a battery project, a similar concept exists in the form of a Tolling Agreement, where the capacity of the battery is contracted out over a certain period.
 
-At its core, yes, renewable projects generate and sell electricity. But even this seemingly straightforward aspect has its nuances. Developers can choose between locking in long-term contracts through Power Purchase Agreements (PPAs) or riding the waves of market prices. It's rather like choosing between a putting your money in equity markets or treasury bonds – each has its place in an investment portfolio.
+### **By Attribute: Energy/Capacity/REC**
 
-### **Power You Promise: The Capacity Market Play**
+Revenue can be also broken down by attribute. Different attributes serve different purposes and can be bundled into a single contract or unbundled and sold into different merchant markets.
 
-Here's where things get interesting. Did you know that renewable projects can get paid just for being available to generate power? These "capacity payments" are the grid's reliability insurance – ensuring enough power generation exists to meet future demand. For battery storage projects, this revenue stream often becomes the star of the show, transforming the traditional power generation business model.
+While the most understood attribute is energy, essentially power generation, other attributes exist.
 
-### **Power You Prove: The Environmental Value Proposition**
+For example, one can get paid for simply ‘being there’, which is known as the ‘capacity’ revenue. This market exists, historically, for the need to ensure enough future capacity is available to generate electricity. Capacity revenues become even more relevant these days because of the energy storage needs. Unlike solar and wind projects, capacity revenue is usually the main source of revenue for battery projects.
 
-The third dimension might be the most fascinating: the ability to sell the "greenness" of renewable power separately from the electricity itself. Through Renewable Energy Credits (RECs), projects can essentially monetize their environmental benefits. These credits flow through two distinct markets – compliance markets driven by state requirements, and voluntary markets fueled by corporate sustainability goals – each offering unique pricing dynamics and strategic opportunities.
+REC (Renewable Energy Credit) is another source of revenue and is specific to renewable energy projects. It serves the purpose of accounting for the carbon emission impacts from energy generation to incentivize renewable energy development. Two markets exist in the US for selling REC: compliance and voluntary. Compliance markets are formed under the Renewable Portfolio Standard. RECs traded through compliance markets usually have higher prices than voluntary market RECs.
 
-## **The Art of Revenue Stacking: Risk and Reward**
+### **Why do these details matter to investors?**
 
-Smart developers don't just pick one revenue stream – they orchestrate multiple sources into a harmonious whole. Consider this strategic ballet:
-
-- A solar project might sell its basic power through a PPA, providing stable foundation revenue
-- The same project could participate in capacity markets during peak demand periods
-- Meanwhile, its RECs might be sold to corporations seeking to meet their sustainability targets
-
-This layered approach transforms what might seem like a simple infrastructure investment into a sophisticated financial instrument. Each layer not only adds revenue but also helps balance risk across different market dynamics.
-
-## **Why Traditional Investment Models Fall Short**
-
-This complexity explains why traditional tech investment approaches often stumble in renewable energy. Unlike software companies that can scale rapidly with minimal capital, renewable projects require significant upfront investment and careful revenue orchestration. The "x-as-a-service" business models beloved by tech investors need significant adaptation to work in this world.
-
-The key to success lies not in forcing traditional models onto renewable projects, but in understanding and optimizing the unique revenue ecosystem they inhabit. Investors who master this complexity find themselves with a powerful advantage in accelerating the clean energy transition.
-
-## **Looking Forward: The Evolution of Revenue Models**
-
-As energy markets continue to evolve, new revenue opportunities emerge. Battery storage projects are pioneering innovative approaches to energy arbitrage. Virtual power plants are creating new ways to stack and optimize revenue streams. The future belongs to those who can see beyond simple power sales to orchestrate these diverse revenue streams into robust, scalable business models.
-
-Understanding these revenue dynamics isn't just about maximizing returns – it's about building a more resilient and sustainable energy system. As we push toward a cleaner energy future, the projects that will lead the way will be those that master not just the technology of renewable energy, but the intricate dance of its revenue streams.
+In the last few years, more growth capital has entered the clean energy space only to realize that financing clean energy projects is totally different from funding a software company. Most of these projects are capital-intensive and take a long time to scale. While I'm encouraged by the conversations going on around FOAK financing and how to mobilize different types of capital across the capital stack, I also want to call out one major type of funding that's often overlooked - **revenue**! Clean energy investors, rather than relying on the old SaaS playbook when advising companies, which usually leads to *‘xxx as a service’* type of business mode, need to really hone the space and learn to help their portfolio company optimize their revenue streams.
