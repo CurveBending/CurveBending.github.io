@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Meeting the power thirst"
+title:  "Meeting the Power Thirst"
 date:   2024-12-15T00:00:00-00:00
 author: Cece
 categories: "Insights"
