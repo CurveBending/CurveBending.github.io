@@ -22,7 +22,7 @@ QuantumScape's strategy with solid-state batteries demonstrates the effectivenes
 
 Form Energy's iron-air battery scale-up showcases protected technology transfer in action. In addition to retaining core chemistry intellectual property, the company compartmentalizes the manufacturing process and licenses specific components. Compliance audits, standardized testing protocols, and third-party verification are put in place for quality control. Market access agreements with terms on territorial rights and dispute resolution mechanisms provide further shields in commercialization.
 
-#### Final Thoughts
+## Final Thoughts
 
 It's tempting to get into an ideological war and make battery technology political. But by doing so, we risk losing the momentum in clean energy deployment. With the intermittent nature of renewable energy, its continued adoption requires the storage solution to follow suit. The duck curve stems from renewable energy penetration and will only get worse as more clean energy comes online. The exploding demand for electricity consumption in the age of AI will lead to further deterioration of grid efficiency at best, hyperscalers abandoning ships and reverting back to gas plants at worst.
 
