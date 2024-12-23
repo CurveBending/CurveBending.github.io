@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "LPO: Past, Present and Future"
+title:  "LPO - Past, Present and Future"
 date:   2024-12-22T00:00:00-00:00
 author: Cece
 categories: "Insights"
 tags: "Clean-Energy"
-
 ---
 
 The Department of Energy (DOE)’s recent announcement of a 15 billion conditional loan to PG&E has caught a lot of attention this past week. If finalized, this would be the biggest loan DOE has ever issued to a single company through its Loan Program Office (LPO).
