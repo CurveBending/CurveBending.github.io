@@ -11,7 +11,7 @@ The Department of Energy (DOE)’s recent announcement of a 15 billion condition
 
 Size aside, the PG&E loan is only one of the many announcements LPO made in the past few months. By scraping the LPO website, I put together a summary of the recent loan issues as below:
 
-![image-20241222212601170](/Users/cissy/Library/Application Support/typora-user-images/image-20241222212601170.png)
+..
 
 Judging from the data, the recent spend from LPO appears different from its past spending trend in three ways:
 
