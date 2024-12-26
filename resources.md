@@ -10,6 +10,7 @@ main_nav: true
 #### Clean Energy Finance
 
 - [Currents](https://www.projectfinance.law/podcasts/) by Norton Rose Fullbright
+- [Redefining Energy](https://www.redefining-energy.com/)
 
 #### Climate Innovations
 
@@ -27,7 +28,7 @@ main_nav: true
 - [Finding Mastery](https://findingmastery.com/podcast-start/)
 - [Good Life Project](https://www.goodlifeproject.com/podcast/)
 - [The Knowledge Project](https://fs.blog/episodes/)
-- [At Home with Byron Katie](https://thework.com/at-home-with-byron-katie-podcast/)
+- [10% Happier with Dan Harris](https://open.spotify.com/show/1CfW319UkBMVhCXfei8huv)
 
 #### Startup
 
@@ -46,6 +47,7 @@ main_nav: true
 
 #### Climate and Clean Energy
 
+- [Cheaper, Faster, Better: How We'll Win the Climate War](https://www.amazon.com/Cheaper-Better-Faster-Well-Climate/dp/1954118643) by Tom Steyer
 - [Superpower: One Man's Quest to Transform American Energy](https://www.amazon.com/Superpower-Quest-Transform-American-Energy/dp/1501163582) by Russell Gold
 - [The Grid: They Fraying Wires Between Americans and Our Energy Future](https://www.amazon.com/Grid-Fraying-Between-Americans-Energy-ebook/dp/B01DM9Q6CQ) by Gretchen Bakke
 - [How to Avoid a Climate Disaster](https://www.amazon.com/How-Avoid-Climate-Disaster-Breakthroughs/dp/059321577X) by Bill Gates
@@ -56,6 +58,7 @@ main_nav: true
 #### Personal Development
 
 - [Man's Search For Meaning](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI?ref_=ast_author_mpb) by Viktor Frankl
+- [The Alchemist](https://a.co/d/1LdjazI) by Paulo Coelho
 - [Getting More](https://www.amazon.com/Getting-More-Negotiate-Succeed-Work/dp/0307716902) by Stuart Diamond
 - [The Lion Tracker's Guide to Life](https://www.amazon.com/Lion-Trackers-Guide-Life-ebook/dp/B07LC9C7Q4) by Boyd Varty
 - [Clear Thinking](https://www.amazon.com/Clear-Thinking-Turning-Ordinary-Extraordinary/dp/0593086112) by Shane Parrish
@@ -63,6 +66,7 @@ main_nav: true
 - [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692) by Cal Newport
 - [Principles](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021) by Ray Dalio
 - [The Art of Gathering](https://www.amazon.com/Art-Gathering-How-Meet-Matters/dp/1594634920) by Priya Parker
+- [Do Hard Things](https://a.co/d/aApKZRF) by Steve Magness
 - [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear
 
 #### Business and Startup
