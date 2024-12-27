@@ -45,18 +45,6 @@ jekyll-archives:
   permalinks:
     category: '/category/:name/'
     tag: '/tag/:name/'
-
-#category and tag setting
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layouts:
-    category: category
-    tag: tag
-  permalinks:
-    tag: '/tag/:name/'
-    category: '/category/:name/'
     
 # Archive (https://aneejian.com/automated-jekyll-archives-github-pages/)
 #collections:
