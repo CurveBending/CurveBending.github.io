@@ -1,0 +1,22 @@
+---
+layout: page
+title: "Posts by Tag"
+permalink: /tags/
+---
+
+<div>
+  {% for tag in site.tags %}
+    {% capture tag_name %}{{ tag | first }}{% endcapture %}
+    <div id="{{ tag_name }}">
+      <h2>{{ tag_name }}</h2>
+      <ul>
+        {% for post in site.tags[tag_name] %}
+          <li>
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            <small>{{ post.date | date_to_string }}</small>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+</div>
