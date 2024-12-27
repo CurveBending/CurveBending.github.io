@@ -3,8 +3,8 @@ layout: post
 title:  "A Kaleidoscope of Investing"
 date:   2024-08-31T00:00:00-00:00
 author: Cece
-categories: "Insights"
-tags: "Investing"
+categories: Insights
+tags: Investing
 ---
 
 Coming to the Bay Area, one noticeable difference is how people inquire about 'investing.' Rather than asking, 'What type of investments do you do?', people say, 'Which stage of the company do you invest in?'. The underlying assumption is that an investor invests in startups. It's an understandable guess in the context of Silicon Valley but most likely not true in other parts of the world.

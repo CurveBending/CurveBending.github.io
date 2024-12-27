@@ -3,8 +3,8 @@ layout: post
 title:  "Why Are Most ESG Investors Failing"
 date:   2024-09-28T00:00:00-00:00
 author: Cece
-categories: "Insights"
-tags: "Investing"
+categories: Insights
+tags: Investing
 ---
 
 ESG considerations as part of the investment process can be dated all the way back to the 17th century when the then asset owners, mostly religious groups, excluded activities involving certain ethical concerns from their investment list. Such practice continued with recent examples seen in the 70s and 80s as investors divested from military arms suppliers at the height of the Vietnam War and later from South African companies in support of ending Apartheid. Today's ESG investing, while following the same spirit, differentiates from its predecessor in at least three ways:

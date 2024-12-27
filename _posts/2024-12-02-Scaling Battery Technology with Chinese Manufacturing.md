@@ -3,8 +3,8 @@ layout: post
 title:  "Scaling Battery Technology with Chinese Manufacturing"
 date:   2024-12-02T00:00:00-00:00
 author: Cece
-categories: "Insights"
-tags: "Clean-Energy"
+categories: Insights
+tags: Clean-Energy
 
 ---
 

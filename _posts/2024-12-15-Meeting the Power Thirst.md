@@ -3,8 +3,8 @@ layout: post
 title:  "Meeting the Power Thirst"
 date:   2024-12-15T00:00:00-00:00
 author: Cece
-categories: "Insights"
-tags: "Clean-Energy"
+categories: Insights
+tags: Clean-Energy
 ---
 
 For the first time in decades, the US is experiencing a sharp demand in growth for electricity. The exact projections vary, ranging from [DOE](https://www.energy.gov/policy/articles/clean-energy-resources-meet-data-center-electricity-demand) estimates of 20% in the next decade to [Grid Strategy](https://gridstrategiesllc.com/wp-content/uploads/National-Load-Growth-Report-2024.pdf) forecasts of 16% peak load growth on an annual basis. By all estimates, after decades of flat growth and minimal activity, the US power market is entering a new age.

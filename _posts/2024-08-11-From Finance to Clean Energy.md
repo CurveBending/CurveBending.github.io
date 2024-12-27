@@ -3,8 +3,8 @@ layout: post
 title:  "From Finance to Clean Energy"
 date:   2024-08-11T00:00:00-00:00
 author: Cece
-categories: "Reflections"
-tags: "Personal-Development"
+categories: Reflections
+tags: Personal-Development
 ---
 
 When I started dabbling with a career transition to find 'fulfillment,' I had no idea what that meant. I had an awesome job as an investor, running a multi-billion portfolio and investing on behalf of institutional clients. It was well-paying, intellectually stimulating, and well-respected. I was working with smart and competent people, with a promising trajectory to continue leveling up.

@@ -3,8 +3,8 @@ layout: post
 title:  "Power System Innovations 101"
 date:   2024-11-26T00:00:00-00:00
 author: Cece
-categories: "Insights"
-tags: "Clean-Energy"
+categories: Insights
+tags: Clean-Energy
 ---
 
 Imagine the electric grid as a living circulatory system, constantly adapting to power our modern world. To understand how innovation is transforming this vital network, let's explore its architecture and the revolutionary changes reshaping each component.
