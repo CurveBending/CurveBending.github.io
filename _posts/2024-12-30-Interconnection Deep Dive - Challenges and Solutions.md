@@ -5,7 +5,6 @@ date:   2024-12-30T00:00:00-00:00
 author: Cece
 categories: Insights
 tags: Clean-Energy
-
 ---
 
 More power supply is needed to meet the rising energy demand. Yet despite the better technology and workforce upskilling, building a power-generating project now takes longer than ever. 
