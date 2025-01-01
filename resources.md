@@ -52,7 +52,8 @@ main_nav: true
 - [The Grid: They Fraying Wires Between Americans and Our Energy Future](https://www.amazon.com/Grid-Fraying-Between-Americans-Energy-ebook/dp/B01DM9Q6CQ) by Gretchen Bakke
 - [How to Avoid a Climate Disaster](https://www.amazon.com/How-Avoid-Climate-Disaster-Breakthroughs/dp/059321577X) by Bill Gates
 - [Zen and the Art of Saving the Planet](https://www.amazon.com/Saving-Planet-Thich-Nhat-Hanh/dp/0062954792) by Thich Nhat Hanh
-- [The New Map](https://www.amazon.com/New-Map-Energy-Climate-Nations/dp/1594206430) by Daniel Bergen
+- [The New Map](https://www.amazon.com/New-Map-Energy-Climate-Nations/dp/1594206430) by Daniel Yergin
+- [Drawdown](https://www.amazon.com/Drawdown-Comprehensive-Proposed-Reverse-Warming/dp/0143130447) by Paul Hawken
 - [Climate and Energy Decoded](https://www.amazon.com/Climate-Energy-Decoded-Low-Carbon-Transition/dp/B0B92L1MKV) by Tushar Choudhary
 
 #### Personal Development
