@@ -3,7 +3,7 @@ layout: post
 title:  "Why Are Most ESG Investors Failing"
 date:   2024-09-28T00:00:00-00:00
 author: Cece
-categories: Insights
+categories: Clean-Energy-Insights
 tags: Investing
 ---
 

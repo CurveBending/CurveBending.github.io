@@ -3,8 +3,8 @@ layout: post
 title:  "Startup Life"
 date:   2024-08-15T00:00:00-00:00
 author: Cece
-categories: Reflections
-tags: Personal-Development
+categories: Personal-Development
+tags: Startup
 ---
 My partner is building an AI Agent startup. As we are deep in the tranches as a team, the startup life has also become a part of my life.
 

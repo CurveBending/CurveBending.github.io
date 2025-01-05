@@ -3,8 +3,8 @@ layout: post
 title:  "Keeping Score of the DOE Loan Program"
 date:   2024-12-22T00:00:00-00:00
 author: Cece
-categories: Insights
-tags: Clean-Energy
+categories: Clean-Energy-Insights
+tags: Industry
 ---
 
 The Department of Energy (DOE)’s recent announcement of a [15 billion conditional loan to PG&E](https://www.utilitydive.com/news/pacific-gas-electric-pge-gets-15b-doe-loan-program-office-hydropower-battery-transmission/735947/) has caught a lot of attention this past week. If finalized, this would be the biggest loan DOE has ever issued to a single company through its Loan Program Office (LPO).

@@ -3,8 +3,8 @@ layout: post
 title:  "Unveiling the Complexity of Clean Energy Revenue"
 date:   2024-11-30T00:00:00-00:00
 author: Cece
-categories: Insights
-tags: Clean-Energy
+categories: Clean-Energy-Insights
+tags: Investing
 ---
 
 Renewable energy projects generate revenues by selling energy - is it all that simple? In practice, various types of revenues exist.

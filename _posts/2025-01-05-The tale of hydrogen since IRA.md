@@ -3,8 +3,8 @@ layout: post
 title:  "The Tale of Green Hydrogen Since the IRA"
 date:   2025-01-05T00:00:00-00:00
 author: Cece
-categories: Insights
-tags: Clean-Energy
+categories: Clean-Energy-Insights
+tags: Industry
 ---
 
 The green hydrogen sector experienced a dramatic cycle following the passing of the Inflation Reduction Act (IRA) in 2022. A massive number of projects were announced in the first half year, with companies rushing to invest in green hydrogen projects and capture the $3/kg production tax credit (PTC) in section 45V. The enthusiasm was only met by frustration with the Treasury proposing additional rules in late 2023, known by many as the 'three pillars' guidance.
