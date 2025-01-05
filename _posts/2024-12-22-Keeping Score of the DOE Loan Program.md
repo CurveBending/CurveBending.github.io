@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "LPO - Past, Present and Future"
+title:  "Keeping Score of the DOE Loan Program"
 date:   2024-12-22T00:00:00-00:00
 author: Cece
 categories: Insights
@@ -49,4 +49,4 @@ Furthermore, one thing LPO has done in the past three years was to normalize the
 
 
 
-Whatever the future looks like, the Office has moved the industry forward meaningfully in the past three years. With more than 200 active applicants summing up a total of 300 billion dollars in loan amounts, the next few months are critial for LPO to not just sustain their traction but also lock in the capital and stockpile resources for the industry to weather the storm. I look forward to more announcements from LPO in the coming year as it continues pave the path forward in scaling clean energy.
+Whatever the future looks like, the Office has moved the industry forward meaningfully in the past three years. Through its strategic deployment of billions of dollars in loans and loan guarantees, the LPO has not only catalyzed the growth of renewable energy projects and advanced manufacturing facilities, but has also demonstrated the financial viability of innovative clean technologies, bridged the commercialization valley of death, and attracted substantial private capital to the clean energy sector. With more than 200 active applicants summing up a total of 300 billion dollars in loan amounts, the next few months are critical for LPO to not just sustain their traction but also lock in the capital and stockpile resources for the industry to weather the storm. 

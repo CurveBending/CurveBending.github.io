@@ -35,7 +35,7 @@ In fact, many countries outside the US with faster interconnection processes fol
 
 **Path Forward: Combining Policy and Technology**
 
-While it's probably not practical to expect the entire country to replicate the ERCOT model, the federal policymakers are clearly taking notes.
+While it's obviously not practical to expect the entire country to replicate the ERCOT model, which bears its own challenges, the federal policymakers are taking notes.
 
 Federal Energy Regulatory Commission (FERC), the federal entity that regulates the six federally regulated RTO/ISO, issued a regulatory proposal in 2023 ([FERC order 2023](https://www.ferc.gov/media/order-no-2023)) to reform the interconnection process, the first proposal on this topic in the last 20 years. While most of the measures are still patchwork on the existing systems, this 1500-page-long document was one step in the right direction.
 
