@@ -9,11 +9,11 @@ tags: Industry
 
 Nuclear energy is making a comeback. From project announcements to capital raises, new headlines around nuclear seem to be rolling in every week. Shuttered plants, including [Three Mile Island](https://www.npr.org/2024/09/20/nx-s1-5120581/three-mile-island-nuclear-power-plant-microsoft-ai) and [Palisades](https://michiganadvance.com/2024/11/13/palisades-nuclear-plant-along-lake-michigan-plans-for-a-2025-comeback-a-1st-in-the-u-s/), are set to re-open. About-to-expire permits for operating existing plants such as [Diablo](https://www.world-nuclear-news.org/Articles/Regulator-accepts-Diablo-Canyon-licence-renewal-ap) are getting extended. Incumbents such as Westinghouse are venturing into the advanced nuclear reactor space. Nuclear startups, including Kairos Power, X-Energy, Oklo, TerraPower, NuScale, Commonwealth, and Nano, are announcing new commercial interests one after another. Innovations are pressing ahead, including earth-shot solutions focused on reactor design and fuel use, as well as the ultimate moon-shot idea of unlocking fusion.
 
-Behind all these are the rising energy demand and capital support from all directions: from Tech companies, including Amazon, Microsoft, Google, and Meta, to power their data centers; from governments who are increasingly warming up to nuclear energy for both energy sufficiency and security; and from venture capitalists who are infinitely optimistic technologists who have been cheering for nuclear energy all along.
+Support is piling in from all directions: from Tech companies, including Amazon, Microsoft, Google, and Meta, who hope to power their data centers with nuclear; from governments who are increasingly warming up to nuclear energy for both energy sufficiency and security; and from venture capitalists who are infinitely optimistic technologists who have been cheering for nuclear energy all along.
 
-**What's Driving the Tide**
+### **What's Driving the Change**
 
-The recent trend stands in sharp contrast with the decades-long winter following the Three Mile Island and Chernobyl accidents in the '70s-'80s. For over two decades, the industry was put on a pause, with only one new plant (Vogtle) developed which went into operation in 2023. The total nuclear capacity in the US went down [from over 100GW in the 80s to 95GW](https://www.eia.gov/energyexplained/nuclear/us-nuclear-industry.php) in 2022. Even amid increasing climate awareness and calls for clean energy, nuclear remained sidelined until recently.
+The recent trend stands in sharp contrast with the decades-long winter following the Three Mile Island and Chernobyl accidents in the '70s-'80s. For over two decades, the industry was put on pause, with only one new plant (Vogtle) developed, which went into operation in 2023. The total nuclear capacity in the US went down [from over 100GW in the 80s to 95GW](https://www.eia.gov/energyexplained/nuclear/us-nuclear-industry.php) in 2022. Even amid increasing climate awareness and calls for clean energy, nuclear remained sidelined until recently.
 
 The sentiment has drastically turned for the following three reasons.
 
@@ -21,7 +21,7 @@ The sentiment has drastically turned for the following three reasons.
 - Policy guidance: The passage of the IRA marked a turning point, with the federal government providing comprehensive support through policy guidance, capital backing, and clear signals to the private sector. The legislation offers up to $15/MWh for existing nuclear plants and 30% ITC for new plants. Nuclear energy used in hydrogen production and other clean energy generation qualifies for additional tax credits. Direct lending was made available through DOE, which issued a [$2.7B RFP](https://www.energy.gov/articles/doe-announces-27-billion-president-bidens-investing-america-agenda-boost-domestic-nuclear) for low-enriched uranium in a bid to grow the domestic nuclear supply chain. New investment vehicles, such as the regional Advanced Nuclear Development Consortium in [New York](https://www.constellationenergy.com/newsroom/2025/new-york-joins-constellation-in-pursuit-of-energy-department-funding-for-advanced-nuclear-reactor.html) and [Idaho](https://www.eda.gov/funding/programs/good-jobs-challenge/2024/Idaho-Advanced-Energy-Consortium), were launched to further scale the investment through pooling capital across sectors under government sponsorship.
 - Private market support: The nuclear sector has been funded generously by the private sector, mostly through technologists. Bill Gates was one of the first and most famous public figures to promote the use of nuclear energy with a significant amount of skin in the game, investing in companies such as TerraPower. Other famous technologists backing nuclear energy include Peter Thiels, Jeff Bezos, Sam Altman, Elon Musk, etc. More and more tech companies are injecting money into the space either as investors or as buyers through procuring energy.
 
-**Does Fundamentals Hold?**
+### **Does the Fundamental Hold?**
 
 Attention aside, where are we with the techno-economics fundamentals?
 
@@ -37,15 +37,13 @@ Generation III are nuclear reactors currently under construction. Most are simil
 
 Even more advanced nuclear reactors that are still at the R&D stage are Generation IV reactors. They use novel fuels such as high-assay, low-enriched uranium (HALEU), and new coolants that have not been tried, accommodated by novel designs. There are currently seven designs under development with international collaboration.
 
-Depending on the size, nuclear reactors can also be grouped into three size categories: large reactors with larger than 1 GW capacity, small modular reactors (SMR) with 50-300 MW capacity, and microreactors at 50 MW capacity or less. Most of the operational nuclear reactors are large reactors at the GW scale. Many advanced nuclear reactors focus on smaller units. The modular design is supposed to be safer and more scalable, unlocking faster learning and better economics.
-
-
+Nuclear reactors can also be grouped into three size categories: large reactors with larger than 1 GW capacity, small modular reactors (SMR) with 50-300 MW capacity, and microreactors at 50 MW capacity or less. Most of the operational nuclear reactors are large reactors at the GW scale. Many advanced nuclear reactors focus on smaller units. The modular design is supposed to be safer and more scalable, unlocking faster learning and better economics.
 
 Under this framework, the latest announcements in the nuclear sector can be bucketed into four categories:
 
 - Restore or renew Gen II nuclear plants
 - Construct Gen III reactors using Gen II technologies
-- Commercialize advanced nuclear reactors including Gen III+ and Gen IV, mostly SMR
+- Commercialize advanced nuclear reactors, including Gen III+ and Gen IV, mostly SMR
 - Technical milestones in Gen IV technologies
 
 Hype aside, only the first two categories see much on-the-ground commercial traction, including most of the data center deals. The last two categories, marked by innovations in SMR and advanced non-light-water reactors, have gained massive interest from stakeholders but much slower progress in deployment. While many hyperscalers are interested in adopting advanced nuclear power, the actual signed capacity is small and mostly at the MW level, including from Amazon and Google to partner with X-energy and Kairos Power, respectively.
@@ -59,6 +57,6 @@ The barriers to getting advanced nuclear reactors off the ground are multifold.
 - **Regulation:** Due to the safety concerns of the nuclear plants, acquiring an NRC permit is the first step and usually the most time-consuming step for any nuclear project to move forward with construction and operation. Regulatory frameworks, largely designed for traditional light-water reactors and haven't been updated to accommodate new designs like small modular reactors (SMRs) and advanced non-light-water reactors, currently result in lengthy approval processes. 
 - **Application:** Many are counting on advanced nuclear reactors, especially SMR, to become the off-grid solutions in lieu of diesel engines or batteries. However, there's little proof that SMR can reliably operate in all conditions. In extreme weather events or other disasters where backup power is most needed, SMR, just like traditional reactors, may be required to shut down for safety concerns, just like traditional nuclear plants.
 
-**Taking Stock**
+### **Taking Stock**
 
 Assuming the current traction can be sustained, it will still take decades for the advanced nuclear technology to work through these barriers and reach commercialization. In addition to the technology, the surrounding infrastructure, including the regulation framework, the business model, and the whole supply chain, may need to be refined, reworked, and reimagined to achieve the commercial lift-off. Outside this base case, with the safety and governance concern unaddressed and nuclear's appealing use case in the military domain, it's also possible that certain geopolitical events can swing the sector to the extreme in both directions, either to a total explosion like the Manhattan Project or to an entire freeze like the Chernobyl tragedy. For nuclear energy investors, there has to be a clear understanding of both the long time horizon and the high risk. Watch out for the 'low-hanging fruit' - they may not be as low as one may think.
