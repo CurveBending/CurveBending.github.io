@@ -36,7 +36,7 @@ Even the existing nuclear technology is resurrecting at the industry level. Earl
 
 ### **Reality Check**
 
-So, is the age of nuclear energy coming soon? I don't think so. Most of the advanced nuclear technology is years, if not decades, away from commercialization. A great many barriers exist even when deploying the existing nuclear technology.
+So, is the age of nuclear energy coming soon? Not quite. Most of the advanced nuclear technology is years, if not decades, away from commercialization. A great many barriers exist even when deploying the existing nuclear technology.
 
 First, all these projects, despite their media attention, will need regulators' blessing to move forward, ranging from permits to interconnection approval. The [Talen-Amazon](https://www.ans.org/news/article-6534/ferc-rejects-interconnection-deal-for-talenamazon-data-centers/) deal hit a pause this year after FERC rejected the nuclear plant interconnection request. While negotiations are still ongoing, the surprising ruling is a reality check of the regulatory complexity.
 

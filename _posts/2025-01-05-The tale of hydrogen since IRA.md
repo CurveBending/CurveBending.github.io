@@ -29,7 +29,7 @@ Another industrial use of hydrogen is steel making, which is driven mostly by cl
 
 Hydrogen also sees potential in heavy trucking and shipping, driven by its promise to decarbonize long-distance transportation where battery solutions are limited. While the unit price of selling hydrogen to retail customers is the highest among all, rolling out fueling stations requires massive capex, eroding the economics and market incentives.
 
-Hydrogen can also be used as an energy storage solution in the power sector. Yet, with the growing deployment of cheaper industry batteries, the door for hydrogen to compete in this market is gradually closing.
+Hydrogen can also be used as an energy storage solution in the power sector. However, with the growing deployment of cheaper industry batteries, the door for hydrogen to compete in this market is gradually closing.
 
 ## The Debates Around 45V PTC
 
