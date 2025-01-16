@@ -75,7 +75,7 @@ main_nav: true
 - [Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) by Peter Thiel
 - [The Hard Things About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) by Ben Horowitz
 - [Build](https://www.amazon.com/Build/dp/1787634116) by Tony Fadell
-- [The Effective Executive](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459) by Peter Druker
+- [The Effective Executive](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459) by Peter Drucker
 - [Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996) by James Collins
 
 #### General Knowlege
