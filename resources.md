@@ -24,6 +24,7 @@ main_nav: true
 
 #### Personal Development
 
+- [Lex Fridman Podcast](https://lexfridman.com/podcast/)
 - [The Tim Ferriss Show](https://tim.blog/podcast/)
 - [Finding Mastery](https://findingmastery.com/podcast-start/)
 - [Good Life Project](https://www.goodlifeproject.com/podcast/)
