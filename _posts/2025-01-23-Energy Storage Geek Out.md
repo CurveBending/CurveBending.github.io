@@ -75,7 +75,7 @@ Energy storage systems are being increasingly adopted by many industries. Overal
 
 
 
-# **Innovations Breakdown**
+# **Innovations Roadmap**
 
 ### **Short-Duration Energy Storage**
 
