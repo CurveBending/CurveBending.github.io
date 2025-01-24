@@ -11,7 +11,7 @@ The adoption of energy storage technology has entered a new frenzy in the last f
 
 
 
-## **Solutions Overview**
+# **Solutions Overview**
 
 Depending on the technology, there are four different types of energy storage solutions.
 
@@ -33,7 +33,7 @@ Chemical batteries store energy in chemical bonds. While this system is not limi
 
 
 
-## **Measuring the Trade-off**
+# **Measuring the Trade-off**
 
 Investing in battery technologies requires triangulating three factors: performance, costs, and end markets.
 
@@ -53,8 +53,6 @@ The ratio between capacity and power forms the other important dimension - durat
 
 Cycle life indicates how many complete charge-discharge cycles a battery can undergo before its capacity degrades to a specified level (often 80% of its original capacity). This can range from a few hundred cycles for consumer electronics to several thousand for grid-storage applications. Slower degradation is especially preferred for grid storage where the upfront costs are high. Safety is another important dimension, especially for mobile consumer products, including EVs. It usually encompasses multiple aspects, including electrical safety, thermal safety, chemical safety, and physical safety. Much of the excitement in solid-state batteries has been driven by their ultimate safety promise in addition to their high performance.
 
-
-
 ### Costs
 
 Costs of developing a storage system can be broken down into upfront Capex including materials costs, manufacturing costs, balance of system, other development costs to acquire land, attain permit, pay for various overheads, as well as ongoing Opex for maintenance, augmentation, and the eventual disposal/recycling.
@@ -67,8 +65,6 @@ Thermal storage has significant Opex from heat losses and thermal management nee
 
 Chemical storage, such as hydrogen, faces both high CAPEX and high OPEX. Without breakthrough technology to improve RTE, and expanded manufacturing to bring down electrolyzers and fuel cell costs, it's hard to imagine a critical path for hydrogen to succeed as a power-generating solution. 
 
-
-
 ### End Markets
 
 Energy storage systems are being increasingly adopted by many industries. Overall, the applications can be bucketed into two categories:
@@ -79,7 +75,7 @@ Energy storage systems are being increasingly adopted by many industries. Overal
 
 
 
-## **Innovations Breakdown**
+# **Innovations Breakdown**
 
 ### **Short-Duration Energy Storage**
 
@@ -94,8 +90,6 @@ R&D is ongoing to improve the electrochemical battery performance further.
 *Solid-state batteries*, in particular, offer several significant advantages over traditional lithium-ion batteries. The elimination of flammable liquid electrolytes fundamentally improves safety and is the most desirable characteristic of such technology. The potential energy density could reach 400-500 Wh/kg, substantially higher than current Li-ion batteries, due to its compatibility with lithium metal anodes. The technology also enables new cathode materials, allowing for further performance improvements.
 
 However, solid-state batteries are still early on in the technology and commercialization journey. The key technical hurdles include achieving high ionic conductivity at room temperature, where the solid electrolytes still lag. Manufacturing challenges are equally daunting, particularly for all-solid-state versions which require new production processes and equipment, particularly the production of oxide electrolytes, which require layer-by-layer atomic deposition. As a result, many companies, especially Chinese manufacturers, are developing semi-solid-state batteries as a stepping stone to accelerate commercialization. Companies that go directly to all-solid-state are mostly Japanese, Korean, and US battery pure-play or auto companies. Major automakers, including Toyota, Volkswagen, and Nissan, have announced production targets of solid-state batteries for premium vehicle segments for 2025-2027.
-
-
 
 ### **Long Duration Energy Storage**
 
@@ -126,6 +120,6 @@ Amid rising geopolitical tension, much of the capital has also gone into develop
 
 
 
-## Last But Not Least
+# Last But Not Least
 
 As we move toward a renewable energy future, battery technology continues to evolve at an unprecedented pace. The next decade will likely see solid-state batteries revolutionizing EVs, while novel LDES solutions reshape grid storage. Success will depend not just on technological breakthroughs, but on building resilient supply chains, establishing supportive regulatory frameworks, and developing sustainable recycling infrastructure. Those who can navigate these interconnected challenges while driving down costs will likely emerge as leaders in the energy storage landscape of tomorrow.
