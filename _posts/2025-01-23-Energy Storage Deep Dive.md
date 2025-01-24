@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Battery Storage Geek Out"
+title:  "Energy Storage Deep Dive"
 date:   2025-01-23T00:00:00-00:00
 author: Cece
 categories: Clean-Energy-Insights
@@ -75,7 +75,7 @@ Energy storage systems are being increasingly adopted by many industries. Overal
 
 
 
-# **Innovations Roadmap**
+# **Innovation Roadmap**
 
 ### **Short-Duration Energy Storage**
 
