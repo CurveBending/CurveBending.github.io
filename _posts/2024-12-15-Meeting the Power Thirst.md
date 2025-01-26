@@ -7,7 +7,7 @@ categories: Clean-Energy-Insights
 tags: Industry
 ---
 
-For the first time in decades, the US is experiencing a sharp demand in growth for electricity. The exact projections vary, ranging from [DOE](https://www.energy.gov/policy/articles/clean-energy-resources-meet-data-center-electricity-demand) estimates of 20% in the next decade to [Grid Strategy](https://gridstrategiesllc.com/wp-content/uploads/National-Load-Growth-Report-2024.pdf) forecasts of 16% peak load growth on an annual basis. By all estimates, after decades of flat growth and minimal activity, the US power market is entering a new age.
+For the first time in decades, the US is experiencing a sharp demand in growth for electricity. The exact projections vary, including [DOE](https://www.energy.gov/policy/articles/clean-energy-resources-meet-data-center-electricity-demand) estimating 20% in the next decade and [Grid Strategy](https://gridstrategiesllc.com/wp-content/uploads/National-Load-Growth-Report-2024.pdf) forecasting 16% peak load growth in the next five years. By all estimates, after decades of flat growth and minimal activity, the US power market is entering a new age.
 
 Three trends have been the primary drivers: (1) the race for AI and the training of large foundation models; (2) manufacturing *on*shoring leading to the expansion of industrial plants; and (3) continued electrification in transportation and buildings. Being the newest force, AI has been the biggest factor in new energy demand, with the most uncertainty.
 
