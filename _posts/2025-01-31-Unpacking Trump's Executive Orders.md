@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "Energy Policy Shift: Implications From Executive Orders"
+title:  "Unpacking Trump's Executive Orders"
 date:   2025-01-31T00:00:00-00:00
 author: Cece
 categories: Clean-Energy-Insights
 tags: Industry
 ---
-
-# **Energy Policy Shift: Implications From Executive Orders**
 
 President Trump, on his first day in office, unveiled a slew of Executive Orders touching many sectors, including energy and climate. While much is yet to be finalized, the message from the new administration is clear: the US under the new administration wants nothing to do with climate policies.
 
