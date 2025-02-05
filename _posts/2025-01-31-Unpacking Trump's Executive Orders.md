@@ -52,11 +52,13 @@ While core incentives may remain intact, the executive orders have significantly
 
 Despite the uncertainties, several opportunities remain in the sector. Clean energy sources that have been classified as 'energy resources,' including geothermal, nuclear, hydro, and biofuel, may still see positive momentum. The administration's focus on critical minerals could provide significant opportunities in battery manufacturing and deployment. Additionally, the streamlined permitting processes, while designed to benefit all energy projects, could actually accelerate clean energy development by removing long-standing bureaucratic barriers.
 
-The administration's trade policies add another layer of complexity to the energy landscape, which wasn’t included in the first batch of the executive orders and only started to unveil last week. The proposed 10% tariff on Chinese goods, combined with a more aggressive 20% tariff on Canadian and Mexican imports, signals a significant shift in trade relations. These actions could trigger retaliatory measures, particularly affecting critical technologies like battery manufacturing. The broader implications suggest growing global tensions that could significantly impact international energy markets and supply chains.
+The administration's trade policies add another layer of complexity to the energy landscape, which wasn’t included in the first batch of the executive orders and only started to unfold last week. The proposed 10% tariff on Chinese goods, combined with a more aggressive 20% tariff on Canadian and Mexican imports, signals a significant shift in trade relations. These actions could trigger retaliatory measures, particularly affecting critical technologies like battery manufacturing. The broader implications suggest growing global tensions that could significantly impact international energy markets and supply chains.
 
 Below are the key details of the latest executive orders and their likely impacts on various climate sub-sectors.
 
 ![Trump policy](/assets/post_images/Trump policy.png)
+
+
 
 ## **Looking Forward**
 
