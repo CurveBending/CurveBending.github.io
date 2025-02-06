@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unpacking Trump's Executive Orders"
+title:  "Unpacking Trump's Energy-Related Executive Orders"
 date:   2025-01-31T00:00:00-00:00
 author: Cece
 categories: Clean-Energy-Insights
@@ -43,9 +43,7 @@ In contrast, in a [Memo](https://www.whitehouse.gov/presidential-actions/2025/01
 ## **Impact on Federal Clean Energy Funding**
 
 Among all the orders, the 90-day freeze of IRA and IIJA funds sent the most chills to the industry. These two laws, signed in 2021-2022, represented unprecedented federal investments of nearly $600 billion in clean energy and climate initiatives. The IRA provided over $300 billion through a combination of tax incentives ($216B), grants ($82B), and loans ($40B), while the IIJA contributed an additional $130 billion in grants specifically for clean energy infrastructure.
-
-While the precise implications will take months to unfold, it's important to understand what the President can and cannot do. The core provisions of IRA and IIJA cannot be unilaterally undermined under presidential power as they are congressionally approved laws with funding approved through budget reconciliation. Within tax incentives, some are largely automated, and the others are protected by the finalized Treasury guidance that the Biden administration managed to bring to the finishing line. Most grants and loans are already allocated to the state level or committed to various projects and initiatives, slimming the chance of them getting clawed back. The executive branch's influence is primarily limited to implementation speed and administrative priorities.
-
+While the precise implications will take months to unfold, it's important to understand what the President can and cannot do. The core provisions of IRA and IIJA cannot be unilaterally undermined under presidential power as they are congressionally approved laws with funding approved through budget reconciliation. In addition, most of the incentives take the form of tax incentives, which are either automated or protected by the finalized Treasury guidance that the Biden administration managed to push through. As for the grants and loans that are currently under the freeze, most are already committed to various projects and initiatives, slimming the chance of a complete claw-back. The executive branch's influence is primarily limited to implementation speed and administrative priorities.
 That said, Congress could partially or fully repeal the laws through legislation if a simple majority vote in the House and Senate can be reached, which, however, will be a much more difficult process. With most of the incentives benefiting Republican districts, it's unlikely that a sufficiently large coalition can be formed to challenge the full laws, and risk will likely be contained to the undistributed funding associated with provisions lacking bipartisan support.
 
 ## **Investment Implications**
