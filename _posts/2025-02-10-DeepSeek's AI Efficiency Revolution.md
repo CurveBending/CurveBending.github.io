@@ -29,7 +29,7 @@ Jevons paradox applies in this case because we're still early on in the AI revol
 
 By no means is DeepSeek necessarily the answer to the AI infrastructure. In fact, being a reasoning model itself, while DeepSeek may lead in reasoning-related performance, it lags in many other areas. DeepSeek, however, demonstrates that AI computing isn't just about throwing money at the problem and building ever-larger models. It shows that AI infrastructure development doesn't have to be monopolized by tech giants or generously funded research labs, and that smaller companies also have a chance to shape the landscape. By creating a pathway to build cheaper and better AI infrastructure, it moves the discussion from simply scaling AI infrastructure to building AI applications.
 
-### **Investment implications**
+### **Investment Implications**
 
 Rather than a change in the fundamental thesis of AI and clean energy, most of the recent market reactions reflect a healthy correction from last year's AI hype, including around-the-corner AGI on the basis of infinitely large models. DeepSeek hasn't undermined the AI - clean energy investment trend, it only accelerates its pace. The following era will likely see two investment trends play out, in addition to 24/7 clean energy demand: AI infrastructure optimization and the search for energy efficiency solutions, as well as leveraging AI applications to further drive clean energy deployment. 
 
