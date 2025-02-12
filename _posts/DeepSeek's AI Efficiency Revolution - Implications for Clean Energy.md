@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DeepSeek's AI Efficiency Revolution and the Implication for Clean Energy"
+title:  "DeepSeek's AI Efficiency Revolution - Implication for Clean Energy"
 date:   2025-02-10T00:00:00-00:00
 author: Cece
 categories: Clean-Energy-Insights
