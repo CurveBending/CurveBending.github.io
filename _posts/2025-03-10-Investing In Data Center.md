@@ -7,9 +7,7 @@ categories: Clean-Energy-Insights
 tags: Industry
 ---
 
-Current Landscape, Development Trends, and Investment Implications
-
-Data centers have evolved from simple computer rooms in the 1960s to massive, purpose-built facilities powering today's digital economy. Historically owned and operated by large corporations for their own use, dedicated hosting facilities emerged where multiple companies could house their equipment in shared spaces through a 'colocation' model as internet adoption grew in the 1990s. The 2000s saw the rise of wholesale colocation data centers and hyperscale facilities driven by the growth of cloud computing and, more recently, by AI computing.
+In the past few decades, data centers have evolved from simple computer rooms in the 1960s to massive, purpose-built facilities powering today's digital economy. Historically owned and operated by large corporations for their own use, dedicated hosting facilities emerged where multiple companies could house their equipment in shared spaces through a 'colocation' model as internet adoption grew in the 1990s. The 2000s saw the rise of wholesale colocation data centers and hyperscale facilities driven by the growth of cloud computing and, more recently, by AI computing.
 
 As the sector expands, investing in data centers has also become a lucrative business, attracting financial investors. While Private Equity remains the main player, other types of investors are coming to the scene, including through REITs and venture capital investment.
 
@@ -116,7 +114,7 @@ The focus of data infrastructure is shifting beyond raw computing power to encom
 
 ------
 
-### Going From Today to Tomorrow
+### From Today to Tomorrow
 
 As data continues to grow as the world's most valuable resource, the humble data center - once merely a "computer room" - will continue its transformation into one of the most critical components of global infrastructure, underpinning everything from everyday conveniences to groundbreaking innovations in AI, quantum computing, and beyond.
 
