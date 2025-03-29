@@ -118,4 +118,4 @@ The focus of data infrastructure is shifting beyond raw computing power to encom
 
 As data continues to grow as the world's most valuable resource, the humble data center - once merely a "computer room" - will continue its transformation into one of the most critical components of global infrastructure, underpinning everything from everyday conveniences to groundbreaking innovations in AI, quantum computing, and beyond.
 
-For investors and industry participants, the most significant opportunities may lie not just in expanding raw capacity but in developing specialized solutions for specific workloads, integrating sustainable practices, and creating the flexible infrastructure needed to support technologies we haven't even imagined yet.
+For investors and industry participants, the most significant opportunities will not lie in expanding raw capacity but in developing specialized solutions for specific workloads, focusing on efficiency practices, and creating the flexible infrastructure capable of supporting future technologies.
