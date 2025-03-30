@@ -9,7 +9,7 @@ tags: Industry
 
 In the past few decades, data centers have evolved from simple computer rooms in the 1960s to massive, purpose-built facilities powering today's digital economy. Historically owned and operated by large corporations for their own use, dedicated hosting facilities emerged where multiple companies could house their equipment in shared spaces through a 'colocation' model as internet adoption grew in the 1990s. The 2000s saw the rise of wholesale colocation data centers and hyperscale facilities driven by the growth of cloud computing and, more recently, by AI computing.
 
-As the sector expands, investing in data centers has also become a lucrative business, attracting financial investors. While Private Equity remains the main player, other types of investors are coming to the scene, including through REITs and venture capital investment.
+As the sector expands, investing in data centers has also become a lucrative business, attracting financial investors. While Private Equity remains the main player, other types of investors are coming to the scene, including through Real Estate Investment Trusts (REITs) and venture capital investment.
 
 ------
 
@@ -23,7 +23,7 @@ These are companies that develop, own, and operate data centers and provide serv
 
 ##### **Specialized Operators**
 
-A large chunk of the data centers is owned and developed by specialized operators under a business model called 'colocation.' Equinix, founded in 1998, has grown to become the world's largest colocation provider with a global footprint of interconnection-focused facilities. Digital Realty stands as one of the largest global providers, offering a comprehensive portfolio that spans both wholesale and colocation services across major markets. CyrusOne has established itself as a major player specializing in enterprise-class data center solutions with particular strength in serving Fortune 1000 companies. CoreSite completes this core group of traditional operators with its specialization in network-dense colocation facilities that focus on creating rich ecosystems of connectivity options for customers.
+A large chunk of the data centers is owned and developed by specialized operators under a business model called 'colocation.' Equinix, founded in 1998, has grown to become the world's largest colocation provider with a global footprint of interconnection-focused facilities. Digital Realty stands as one of the largest global providers, offering a comprehensive portfolio that spans both wholesale and colocation services across major markets. CyrusOne has established itself as a major player specializing in enterprise-class data center solutions. CoreSite completes this core group of traditional operators with its specialization in network-dense colocation facilities that focus on creating rich ecosystems of connectivity options for customers.
 
 ##### **Financial Investors**
 
@@ -59,7 +59,7 @@ Most special operators operate under a Colocation (often shortened to "colo") bu
 
 ##### **Service Provider Model**
 
-While the Colocation model is a Real Estate business model, most hyperscalers operate under the Service Provide model. The development costs of the data center essentially become the Opex of operating the cloud infrastructure, and the revenue of a data center is the additional service; hence, billing can be provided by the associated cloud service. AI data centers, mostly strategic investments at this point, have also been adopting this model in their thinking.
+While the Colocation model is a Real Estate business model, most hyperscalers operate under the Service Provider model. The development costs of the data center essentially become the Opex of operating the cloud infrastructure, and the revenue of a data center is the additional service; hence, billing can be provided by the associated cloud service. AI data centers, mostly strategic investments at this point, have also been adopting this model in their thinking.
 
 ##### **Bare Metal as a Service (BMaaS) Model**
 
