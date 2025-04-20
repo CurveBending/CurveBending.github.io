@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Scaling Carbon Removal: Bridging the Gap Between Supply and Demand"
+title:  "Carbon Removal at Scale: Bridging the Gap Between Supply and Demand"
 date:   2025-03-25T00:00:00-00:00
 author: Cece
 categories: Climate-Solutions
 tags: Industry
 ---
 
-Meeting global climate targets will require not only scaling the decarbonization technologies but also increasing the amount of carbon removal from the atmosphere. Simply put, we need to develop carbon-negative solutions in addition to carbon-neutral solutions. According to the Intergovernmental Panel on Climate Change (IPCC), we've already burned through over 80% of our carbon budget for the 1.5°C target in the last decade. To keep us on track, between [7-9 gigatons of CO₂](https://www.stateofcdr.org/) need to be removed annually by 2050, compared to the current carbon removal rate of around two gigatons per year.
+Meeting global climate targets will require not only scaling the decarbonization technologies but also increasing the amount of carbon removal from the atmosphere. Simply put, we need to develop carbon-negative solutions in addition to carbon-neutral solutions. According to the Intergovernmental Panel on Climate Change (IPCC), we've already burned through over 80% of our carbon budget for the 1.5°C target in the last decade. To keep us on track, [close to nine gigatons of CO₂](https://www.stateofcdr.org/) need to be removed annually by 2050 in the average case, compared to the current carbon removal rate of around two gigatons per year.
 
 Decarbonization through scaling green electrons and green molecules starts to look insufficient for several critical reasons:
 
@@ -82,15 +82,15 @@ This mismatch between supply and demand creates a problematic dynamic: high-qual
 
 Given this mismatch, scaling carbon removal is not just a technology or capital problem; it's a multi-stakeholder system challenge that requires collaborative actions to develop the market. Each participant in the ecosystem has a distinct role to play in creating a more functional marketplace and bridging the gap between carbon removal supply and demand.
 
-#### Policy Makers: Creating the Foundation
+#### **Policy Makers: the Bedrock of the Market**
 
-Policymakers set the foundation of the market by mandating emission targets on industries. 
+Policymakers lay the foundation of the market by mandating emission targets on industries.
 
 The Paris Agreement's Article 6, which enables carbon markets to meet country-level climate commitments, is one of the key reasons the market even exists. Science Based Targets initiative (SBTi) operationalizes this by guiding businesses to set emission reduction targets aligned with the net-zero goals. Its [latest draft](https://sciencebasedtargets.org/news/sbti-launches-draft-corporate-net-zero-standard-v2-for-consultation) highlights the role of carbon removal in addressing residual carbons and proposes interim carbon removal targets to scale up the carbon removal industry. 
 
 Policymakers can also drive demands by procuring carbon projects and catalyzing the markets. The U.S. Department of Energy (DOE) launched a pilot program in 2023, allocating $35 million to purchase verified carbon removal credits. Assuming the program continues under the current administration, this will provide a meaningful liquidity boost to the industry.
 
-#### MRV: Providing Critical Tooling to Remove Friction
+#### **MRV: Critical Tooling to Remove Friction**
 
 At the moment, diverse verification agencies exist, including Verra, Gold Standard, the American Carbon Registry, and Climate Action Reserve. With different verification and measurement methodologies adopted by different projects, buyers often struggle to differentiate projects and purchase high-quality carbon credits to meet organizations' goals. As a result, standardizing the measurement, reporting, and verification (MRV) framework, especially around high-quality carbon credits, holds the key to growing the market.
 
@@ -116,7 +116,7 @@ Project developers must prioritize transparency and integrity in technical funda
 
 Equally important is ensuring commercial viability through strategic team composition and market alignment. Successful developers assemble cross-disciplinary teams combining scientific expertise with industry-specific operational knowledge and financial acumen. They conduct thorough market analysis to understand buyer preferences before finalizing project design, develop multiple revenue streams beyond carbon credits to reduce financial vulnerability, determine minimum viable project scale to balance MRV costs with competitive pricing, and structure projects to deliver returns while managing risks. By focusing simultaneously on technical integrity and commercial fundamentals, developers can create projects that not only deliver genuine climate benefits but also attract the investment necessary to scale their impact.
 
-#### Financiers and Investors: Providing Patient Capital and Partnerships
+#### Financiers and Investors: Patience, Innovation and Collaboration
 
 The market scaling ultimately requires capital. Given the challenging business model, combining funding resources through blended finance is likely a must-have feature for the market to scale.
 
