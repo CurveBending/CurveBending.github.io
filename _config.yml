@@ -109,6 +109,13 @@ social:
     desc: Connect with me on LinkedIn
     share: true
 
+  - name: Substack
+    icon: edit
+    username: CurveBending
+    url: https://cecez.substack.com/
+    desc: Subscribe to my newsletter on Substack
+    share: false 
+
   - name: Google+
     icon: google-plus
     username: ""
